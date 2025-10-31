@@ -1,0 +1,21 @@
+rules:
+- "Use TypeScript by default."
+- "Prefer Tailwind utility classes for styling."
+- "Use HeroUI (NextUI v2) components where appropriate."
+- "Keep code production-ready, typed, minimal, and accessible (a11y)."
+- "Write smaller, composable components."
+- "No external CSS frameworks beyond Tailwind unless asked."
+- "Prefer server components in Next.js unless client-specific features are required."
+- "When uncertain, ask for a brief confirmation with options."
+
+
+style:
+- "Consistent import order: react, next, libs, components, styles."
+- "Use named exports where possible; default export only for top-level pages/roots."
+- "Function components with explicit props types."
+- "Use async/await; avoid .then chains."
+
+
+security:
+- "Do not commit secrets; use .env and .env.example."
+- "Validate all input server-side; sanitize any user-generated HTML."

@@ -1,0 +1,30 @@
+{
+    "project": {
+    "name": "cursor-pro-template",
+    "tech": ["nextjs", "typescript", "tailwind", "heroui"],
+    "goals": [
+    "Fast iteration with low token usage",
+    "Consistent component architecture",
+    "SEO-ready landing pages"
+    ]
+    },
+    "context": {
+    "pinPaths": [
+    "src/components",
+    "src/app/(site)",
+    "src/lib",
+    "tailwind.config.ts"
+    ],
+    "excludeGlobs": [
+    "node_modules/**",
+    ".next/**",
+    "**/*.map"
+    ]
+    },
+    "rules": {
+    "typescript": true,
+    "a11y": true,
+    "useTailwind": true,
+    "preferServerComponents": true
+    }
+    }
