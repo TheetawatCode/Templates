@@ -1,0 +1,1 @@
+// route dynamic สำหรับ robots.txt

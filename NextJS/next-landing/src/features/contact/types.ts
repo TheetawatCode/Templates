@@ -1,0 +1,1 @@
+// Type เฉพาะ feature นี้
