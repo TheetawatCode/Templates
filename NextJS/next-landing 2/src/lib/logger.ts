@@ -1,1 +1,0 @@
-// ฟังก์ชัน log (console / Sentry ฯลฯ)

@@ -1,1 +1,0 @@
-// helper ทั่วไป เช่น classNames ฯลฯ

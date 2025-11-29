@@ -1,1 +1,0 @@
-// Default metadata, Open Graph, structured data

@@ -1,1 +1,0 @@
-// อ่าน env variables แบบ type-safe

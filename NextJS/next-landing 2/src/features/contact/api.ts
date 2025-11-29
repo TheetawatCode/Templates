@@ -1,1 +1,0 @@
-// ฟังก์ชัน call fetch('/api/contact')

@@ -1,1 +1,0 @@
-// ฟังก์ชัน track event ฝั่ง server
