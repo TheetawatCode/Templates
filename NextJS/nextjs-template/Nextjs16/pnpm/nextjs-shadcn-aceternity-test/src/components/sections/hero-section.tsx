@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { NavbarDemo } from '../aceternity/navbar-menu-demo'
+import { NavbarDemo } from '../aceternity/Navbar/navbar-menu-demo'
 import HeroSectionOne from '../aceternity/hero-section-demo-1'
 import { ImagesSliderDemo } from '../aceternity/images-slider-demo'
 
@@ -13,7 +13,6 @@ import { ThreeDCardDemo } from '../aceternity/3d-card-demo'
 import ExpandableCardDemo from '../aceternity/expandable-card-demo-grid'
 import { FocusCardsDemo } from '../aceternity/focus-card-demo'
 import { LayoutGridDemo } from '../aceternity/layout-grid-demo' 
-import { AnimatedPinDemo } from '../aceternity/3d-pin-demo'
 
 import { AnimatedTestimonialsDemo } from '../aceternity/animated-testimonials-demo'
 import { AnimatedTooltipPreview } from '../aceternity/animated-tooltip-demo'
@@ -38,7 +37,6 @@ export default function HeroSection() {
       <ExpandableCardDemo />
       <FocusCardsDemo /> 
       <LayoutGridDemo /> 
-      <AnimatedPinDemo />
 
       <AnimatedTestimonialsDemo /> 
       <AnimatedTooltipPreview />
