@@ -1,6 +1,5 @@
 import React from 'react'
 
-import { NavbarDemo } from '../aceternity/Navbar/navbar-menu-demo'
 import HeroSectionOne from '../aceternity/hero-section-demo-1'
 import { ImagesSliderDemo } from '../aceternity/images-slider-demo'
 
@@ -24,7 +23,6 @@ export default function HeroSection() {
     <div>
       <h1>Hero Section</h1> 
 
-      <NavbarDemo />
       <HeroSectionOne />
       <ImagesSliderDemo />
       
