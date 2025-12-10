@@ -58,7 +58,7 @@ function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function ProductOverviewSection() {
+export default function ProductOverviewsSection() {
   return (
     <div className="bg-white">
       <div className="pt-6">
