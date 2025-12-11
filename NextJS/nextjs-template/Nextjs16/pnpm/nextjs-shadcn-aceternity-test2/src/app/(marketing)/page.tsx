@@ -7,17 +7,19 @@ import TestimonialsSection from "@/components/sections/testimonials-section";
 import PricingSection from "@/components/sections/pricing-section";
 import FaqSection from "@/components/sections/faq-section";
 import ContactSection from "@/components/sections/contact-section";
+import GallerySection from "@/components/sections/gallery-section";
 
 export default function Home() {
   return (
     <div>
       <HeroSection />
-      {/* <FeaturesSection />
+      <FeaturesSection />
+      <PricingSection />
       <AboutSection />
       <TestimonialsSection />
-      <PricingSection />
-      <FaqSection />
-      <ContactSection /> */}
+      <GallerySection />
+      {/* <FaqSection /> */}
+      {/* <ContactSection /> */}
     </div>
 
 //     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
